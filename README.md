@@ -1,12 +1,13 @@
+[GithubExplore](https://github-explores.netlify.app/)
+
 In the project directory, you can run:
 
-### `yarn install`
+`yarn install`
 or 
-### `npm install`
+`npm install`
 
 after
 
-### `yarn start`
-or
-### `npm start`
+ `yarn start`
+or `npm start`
 
